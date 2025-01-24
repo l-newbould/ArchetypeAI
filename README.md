@@ -1,6 +1,6 @@
 # ArchetypeAI
 
-A project that analyzes character descriptions and classifies them into 12 archetypes in TV shows and movies using AI.
+A project that analyzes character descriptions and classifies them into 12 archetypes in TV shows and movies using BERT.
 
 Using the Hugging Face Transformers library, the project fine-tunes the distilbert-base-uncased model to achieve high accuracy and deploy a robust classification pipeline.
 
